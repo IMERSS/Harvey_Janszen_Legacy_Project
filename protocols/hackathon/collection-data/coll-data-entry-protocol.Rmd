@@ -9,35 +9,34 @@ output:
 
 # Data Entry
 
-## Template
-
-*Start new template for every field journal.*
-
--   Copy and paste the template "HJ-occ-entry-template.xlsx"
-
--   Rename to "HJ-[input archiveID]-occ-entry-[YY-MM-DD].xlsx"
+## Setting up
 
 ## Setting up
 
-1.  Open the data entry excel sheet
+1.  Navigate to the hackathon google drive link
 
-2.  Open the field journal to the first page
+2.  Download the files from the folder "for everyone to download"
 
-3.  Open two internet search windows
+    -   Place sheets in folder where you can easily access them --\> e.g. on desktop "Hackathon_2023-11-04"
 
-4.  In the first window --\> [https://www.inaturalist.org](https://www.inaturalist.org/home)
+3.  Open the folder for your assigned group
 
-    -   click "Explore" tab
+    -   Download and open the empty data entry excel template (Computer screen 1).
 
-    -   zoom in on south western BC
+        -   place in same easily accessible folder
 
-    -   click the red rectangular select button
+4.  Download and open the first assigned field journal pdf file that contains pages in your assigned range (see below) (these contain digitized scans of Harvey's field notes) (computer screen 2 - if available)
 
-    -   click and drag to select an area that extends from around Hope BC to the east, encompasses all of Vancouver Island, and goes down to Seattle/ Tacoma in the south
+    -   the assigned pages are as follows:
+        -   group 4 = pages 18-82
 
-    -   set this window aside and return to excel sheet
+        -   group 5 = pages 83 - 145
 
-5.  Second window will be used to search up localities that you are uncertain of
+        -   group 6 = pages 146-208
+
+5.  Open the file "FloraPNW_Checklist.xlsx" on the same computer as the data entry excel sheet
+
+6.  On either computer, open an internet browser window (this will be used to look up the names of locations)
 
 ## Entering data
 
@@ -48,6 +47,7 @@ Begin with the **first page in a journal.**
 2.  **Scan the page for collection numbers with species names** starting at the top of the page.
 
     -   To look for what location and date information is associated with each name, he often put the location and a date and then species associated with it BELOW or BESIDE
+    -   You may have to download the previous set of journal pages pdf file to get context from the previous page
 
 3.  Enter "**numPage"** **[REQUIRED]** (number on page) as the number of the observation on the page (e.g. the first species name that has a collection number gets"1", the next one "2", etc.)
 
@@ -65,19 +65,27 @@ Begin with the **first page in a journal.**
 
 5.  **"vSciName" [REQUIRED]** = your estimation of what the full species name is
 
-    -   This is where iNaturalist is helpful. Often the taxonomy might be outdated (indicated by a bracketed name in the search results on iNat).
+    -   This is where the Flora of the PNW checklist sheet and iNaturalist area helpful. Often the taxonomy might be outdated (indicated by a bracketed name in the search results on iNat, or by outdated taxon names in th Flora sheet)
 
-        -   start entering first 3 letters of generic name and species name
+        -   when using the Flora sheet:
 
-        -   see if it occurs in the region
+            -   if you can make out the genus, specific epithet or subspecies epithet, type it into the command F function in excel. See if you can find it on the sheet
 
-        -   keep trying with different letters to find best match
+            -   If this doesn't work, try alternative spellings or a different part of the name
+
+            -   if this doesn't work, start with the first 3 or so letters and try again
+
+            -   If a name pops up, that seems like a good match, copy it to the "vSciName" column
+
+        -   If nothing works, either ask Andrew/ Emma or use iNaturalist using similar techniques
+
+            -   to narrow down the search and only have names pop up, you can draw a rectangular region around south coastal BC (ask Emma for help)
+
+            -   he might have written down an old name which will pop up in brackets in the search bar
+
+            -   Once you are reasonably certain of a full name, start typing it into search bar and finish typing by looking at the result. If the result still pops up then its proper spelling and you can copy it to spreadsheet
 
         -   if there are multiple species possible and/ or you can't decipher the name, place a note in the "dataEntryRemarks" column (e.g. "could not decipher taxon name")
-
-        -   Once you are reasonably certain of a full name, start typing it into search bar and finish typing by looking at the result. If the result still pops up then its proper spelling and you can copy it to spreadsheet
-
-        -   If it is an outdated name, it will often be bracketed beside another name for the same species in the iNaturalist search, can use this as a spelling guide as well
 
     -   Enter your best guess of what the full verbatim name was meant to be
 
@@ -91,7 +99,7 @@ Begin with the **first page in a journal.**
 
 7.  **"sciName" [REQUIRED] =** **full, properly spelled, updated taxon names.**
 
-    -   refer to iNaturalist for updates taxon names
+    -   refer to iNaturalist and the Flora sheet for updates taxon names
 
     -   If subspecies or variety, just include this epithet, and do not include the "ssp." or "var." abbreviations. (e.g. Instead of Lupinus latifolius ssp. subalpinus, put "Lupinus latifolius subalpinus")
 
@@ -269,13 +277,14 @@ Begin with the **first page in a journal.**
 
 27. **"dataEntryRemaks" =** any observation with remarks here will be checked over. Write whatever notes are important to completing data entry for that row/ what needs to be helped with.
 
-## When finished entering all data for book:
+## When finished entering:
 
--   ***Save the final raw data book as both .xlsx and .csv files***
+-   Save file as .csv
+-   Upload to your group's google drive folder with the following name: "HJ-8_coll-entry_G-[group numer]\_v[version number].csv"
 
 ## Important Notes:
 
-1.  **SAVE FREQUENTLY** (by pushing to github or backing up on OSF or Google Drive)
+1.  **SAVE FREQUENTLY** (command S)
 
 2.  If certain names can't be deciphered or a location/ time can't be attributed to it, **still include as a row in the template,** with a valid **pageNum** an **numPage** entry. It can be removed later (this will help for re-finding things on the page). To help remember what you had a difficult time deciphering, make a note of it in "dataEntryRemarks" and you can additionally attempt to fill out the information and place square brackets around the uncertain parts --\> e.g. [add tophar]?
 
