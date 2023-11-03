@@ -39,7 +39,8 @@ AI <- "HJ" # AUTHOR INITIALS
              "occurrence_data","2_data_checking",
              as.character(unique(max(list.files(here::here("data","data_digitization",
                                                            "occurrence_data",
-                                                           "2_data_checking")))))))
+                                                           "2_data_checking")))))), 
+  na.strings = "NA")
 
 ## loading raw data
 
@@ -143,8 +144,10 @@ for (i in 1:length(J)){
     dplyr::filter(!is.na(vName) & 
                     !is.na(vSciName) &
                     !is.na(sciName)) %>% 
-    dplyr::filter(., rowSums(is.na(.)) != ncol(.)) 
+    dplyr::filter(., rowSums(is.na(.)) != ncol(.)) %>% 
+    relocate(dataEntryRemarks, .after= "idBy")
   
+    
   for (i in 1:dim(checked_data)[1]){  # for each row in the checked frame
     
     # if the "toDelete" column has "Y" or "y", 
@@ -164,7 +167,8 @@ for (i in 1:length(J)){
       # if its pageNum, and numPage match that in raw data
       raw_data[ 
       which(checked_data$pageNum[i] == raw_data$pageNum &
-      checked_data$numPage[i] == raw_data$numPage),] <- 
+      checked_data$numPage[i] == raw_data$numPage &
+        checked_data$archive_ID[i] == raw_data$archiveID), ] <- 
       # assign raw data column to that row of checked data
         checked_data[i,3:dim(checked_data)[2]]
     }

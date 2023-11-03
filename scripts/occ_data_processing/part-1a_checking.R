@@ -211,7 +211,7 @@
                 here::here("data","data_digitization","occurrence_data",
                            "2_data_checking",
                            paste0(AI,"-","occ-data-to-check_ALL_",
-                           Sys.Date(),".csv")), row.names = F)
+                           Sys.Date(),".csv")), row.names = F, na="NA")
     } 
   
   # and removing old files to save storage

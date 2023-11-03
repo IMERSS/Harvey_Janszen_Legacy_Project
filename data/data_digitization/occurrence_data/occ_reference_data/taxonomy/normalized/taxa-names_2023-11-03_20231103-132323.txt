@@ -1,0 +1,360 @@
+ScientificName	Country	StateProvince	FPNW2ndEdition	FPNW1stEdition	AcceptedFamily	AcceptedScientificName	SpeciesAuthors	InfraspeciesAuthors	MisappliedTo/SeeAlso	Comments
+ScientificName	Country	StateProvince								'ScientificName' is not in the UW Herbarium checklists.
+Abies grandis	Canada	British Columbia	Abies grandis	Abies grandis	Pinaceae	Abies grandis	(Douglas ex D. Don) Lindl.			
+Acer glabrum	Canada	British Columbia	Acer glabrum	Acer glabrum	Sapindaceae	Acer glabrum	Torr.			
+Acer macrophyllum	Canada	British Columbia	Acer macrophyllum	Acer macrophyllum	Sapindaceae	Acer macrophyllum	Pursh			
+Achillea millefolium	Canada	British Columbia	Achillea millefolium	Achillea millefolium	Asteraceae	Achillea millefolium	L.			
+Achlys triphylla	Canada	British Columbia	Achlys triphylla	Achlys triphylla	Berberidaceae	Achlys triphylla	(Sm.) DC.			
+Adenocaulon bicolor	Canada	British Columbia	Adenocaulon bicolor	Adenocaulon bicolor	Asteraceae	Adenocaulon bicolor	Hook.			
+Agoseris grandiflora	Canada	British Columbia	Agoseris grandiflora	Agoseris grandiflora	Asteraceae	Agoseris grandiflora	(Nutt.) Greene			
+Agrostis gigantea	Canada	British Columbia	Agrostis gigantea	Agrostis alba var. alba	Poaceae	Agrostis gigantea	Roth			
+Agrostis scabra	Canada	British Columbia	Agrostis scabra	Agrostis scabra	Poaceae	Agrostis scabra	Willd.			
+Aira caryophyllea	Canada	British Columbia	Aira caryophyllea	Aira caryophyllea	Poaceae	Aira caryophyllea	L.			
+Aira praecox	Canada	British Columbia	Aira praecox	Aira praecox	Poaceae	Aira praecox	L.			
+Alchemilla arvensis	Canada	British Columbia	Aphanes arvensis		Rosaceae	Aphanes arvensis	L.			
+Allium	Canada	British Columbia	Allium	Allium	Amaryllidaceae	Allium				
+Allium acuminatum	Canada	British Columbia	Allium acuminatum	Allium acuminatum	Amaryllidaceae	Allium acuminatum	Hook.			
+Allium cernuum	Canada	British Columbia	Allium cernuum	Allium cernuum	Amaryllidaceae	Allium cernuum	Roth			
+Alnus	Canada	British Columbia	Alnus	Alnus	Betulaceae	Alnus				
+Alnus rubra	Canada	British Columbia	Alnus rubra	Alnus rubra	Betulaceae	Alnus rubra	Bong.			
+Alopecurus	Canada	British Columbia	Alopecurus	Alopecurus	Poaceae	Alopecurus				
+Alopecurus geniculatus	Canada	British Columbia	Alopecurus geniculatus	Alopecurus geniculatus	Poaceae	Alopecurus geniculatus	L.			
+Ambrosia chamissonis	Canada	British Columbia	Ambrosia chamissonis	Ambrosia chamissonis	Asteraceae	Ambrosia chamissonis	(Less.) Greene			
+Amelanchier alnifolia	Canada	British Columbia	Amelanchier alnifolia	Amelanchier alnifolia	Rosaceae	Amelanchier alnifolia	(Nutt.) Nutt. ex M. Roem.			
+Anagallis arvensis	Canada	British Columbia	Lysimachia arvensis	Anagallis arvensis	Primulaceae	Lysimachia arvensis	(L.) U. Manns & Anderb.			
+Anthoxanthum odoratum	Canada	British Columbia	Anthoxanthum odoratum	Anthoxanthum odoratum	Poaceae	Anthoxanthum odoratum	L.			
+Anthriscus caucalis	Canada	British Columbia	Anthriscus caucalis	Anthriscus scandicina	Apiaceae	Anthriscus caucalis	M. Bieb.			
+Aphyllon purpureum	Canada	British Columbia	Aphyllon purpureum	Orobanche uniflora var. minuta	Orobanchaceae	Aphyllon purpureum	(A. Heller) Holub			
+Arabis glabra	Canada	British Columbia	Turritis glabra	Arabis glabra	Brassicaceae	Turritis glabra	L.			
+Arabis hirsuta	Canada	British Columbia		Arabis hirsuta	Brassicaceae	Arabis hirsuta	(L.) Scop.		Arabis hirsuta	Arabis hirsuta has been misapplied to Arabis hirsuta in Flora PNW 1st Edition.
+Arbutus menziesii	Canada	British Columbia	Arbutus menziesii	Arbutus menziesii	Ericaceae	Arbutus menziesii	Pursh			
+Arctium minus	Canada	British Columbia	Arctium minus	Arctium minus	Asteraceae	Arctium minus	(Hill) Bernh.			
+Arenaria serpyllifolia	Canada	British Columbia	Arenaria serpyllifolia	Arenaria serpyllifolia	Caryophyllaceae	Arenaria serpyllifolia	L.			
+Artemisia campestris	Canada	British Columbia	Artemisia campestris	Artemisia campestris	Asteraceae	Artemisia campestris	L.			
+Artemisia suksdorfii	Canada	British Columbia	Artemisia suksdorfii	Artemisia suksdorfii	Asteraceae	Artemisia suksdorfii	Piper			
+Athyrium filix-femina	Canada	British Columbia	Athyrium filix-femina	Athyrium filix-femina	Athyriaceae	Athyrium filix-femina	(L.) Roth ex Mertens			
+Atriplex patula	Canada	British Columbia	Atriplex patula	Atriplex patula	Amaranthaceae	Atriplex patula	L.			
+Barbarea orthoceras	Canada	British Columbia	Barbarea orthoceras	Barbarea orthoceras	Brassicaceae	Barbarea orthoceras	Ledeb.			
+Bellis perennis	Canada	British Columbia	Bellis perennis	Bellis perennis	Asteraceae	Bellis perennis	L.			
+Berberis aquifolium	Canada	British Columbia	Berberis aquifolium	Berberis aquifolium	Berberidaceae	Mahonia aquifolium	(Pursh) Nutt.			
+Berberis nervosa	Canada	British Columbia	Berberis nervosa	Berberis nervosa	Berberidaceae	Mahonia nervosa	(Pursh) Nutt.			
+Brachythecium	Canada	British Columbia			Brachytheciaceae	Brachythecium				
+Bromus	Canada	British Columbia	Bromus	Bromus	Poaceae	Bromus				
+Bromus hordeaceus	Canada	British Columbia	Bromus hordeaceus	Bromus mollis	Poaceae	Bromus hordeaceus	L.			
+Bromus pacificus	Canada	British Columbia	Bromus pacificus	Bromus pacificus	Poaceae	Bromus pacificus	Shear			
+Bromus sterilis	Canada	British Columbia	Bromus sterilis	Bromus sterilis	Poaceae	Bromus sterilis	L.			
+Bromus tectorum	Canada	British Columbia	Bromus tectorum	Bromus tectorum	Poaceae	Bromus tectorum	L.			
+Bromus vulgaris	Canada	British Columbia	Bromus vulgaris	Bromus vulgaris	Poaceae	Bromus vulgaris	(Hook.) Shear			
+Bryum	Canada	British Columbia			Bryaceae	Bryum				
+Calendula	Canada	British Columbia	Calendula		Asteraceae	Calendula				
+Callitriche heterophylla	Canada	British Columbia	Callitriche heterophylla	Callitriche heterophylla	Plantaginaceae	Callitriche heterophylla	Pursh			
+Camassia leichtlinii	Canada	British Columbia	Camassia leichtlinii	Camassia leichtlinii	Asparagaceae	Camassia leichtlinii	(Baker) S. Watson			
+Campanula medium	Canada	British Columbia	Campanula medium	Campanula medium	Campanulaceae	Campanula medium	L.			
+Campanula scouleri	Canada	British Columbia	Campanula scouleri	Campanula scouleri	Campanulaceae	Campanula scouleri	Hook. ex A. DC.			
+Cardamine oligosperma	Canada	British Columbia	Cardamine oligosperma	Cardamine oligosperma	Brassicaceae	Cardamine oligosperma	Nutt.			
+Cardamine pensylvanica	Canada	British Columbia	Cardamine pensylvanica	Cardamine pensylvanica	Brassicaceae	Cardamine pensylvanica	Muhl. ex Willd.			
+Carex aurea	Canada	British Columbia	Carex aurea	Carex aurea	Cyperaceae	Carex aurea	Nutt.			
+Carex canescens	Canada	British Columbia	Carex canescens	Carex canescens	Cyperaceae	Carex canescens	L.			
+Carex cusickii	Canada	British Columbia	Carex cusickii	Carex cusickii	Cyperaceae	Carex cusickii	Mack. ex Piper & Beattie			
+Carex deweyana	Canada	British Columbia	Carex deweyana	Carex deweyana	Cyperaceae	Carex deweyana	Schwein.			
+Carex echinata	Canada	British Columbia	Carex echinata	Carex muricata	Cyperaceae	Carex echinata	Murray		Carex echinata	Carex echinata has been misapplied to Carex echinata in Flora PNW 1st Edition.
+Carex exsiccata	Canada	British Columbia	Carex exsiccata	Carex vesicaria var. major	Cyperaceae	Carex exsiccata	L.H. Bailey			
+Carex interior	Canada	British Columbia	Carex interior	Carex interior	Cyperaceae	Carex interior	L.H. Bailey			
+Carex lasiocarpa	Canada	British Columbia	Carex lasiocarpa	Carex lasiocarpa	Cyperaceae	Carex lasiocarpa	Ehrh.			
+Carex lenticularis	Canada	British Columbia	Carex kelloggii	Carex lenticularis	Cyperaceae	Carex kelloggii	W. Boott		Carex kelloggii	Carex lenticularis has been misapplied to Carex kelloggii in Flora PNW 1st Edition.
+Carex lyngbyei	Canada	British Columbia	Carex lyngbyei	Carex lyngbyei	Cyperaceae	Carex lyngbyei	Hornem.			
+Carex obnupta	Canada	British Columbia	Carex obnupta	Carex obnupta	Cyperaceae	Carex obnupta	L.H. Bailey			
+Carex pachystachya	Canada	British Columbia	Carex pachystachya	Carex pachystachya	Cyperaceae	Carex pachystachya	Cham. ex Steud.			
+Carex pensylvanica	Canada	British Columbia	Carex inops	Carex pensylvanica	Cyperaceae	Carex inops	L.H. Bailey		Carex inops	Carex pensylvanica has been misapplied to Carex inops in Flora PNW 1st Edition.
+Carex rostrata	Canada	British Columbia	Carex rostrata	Carex rostrata	Cyperaceae	Carex rostrata	Stokes		Carex utriculata	Carex rostrata has been misapplied to Carex utriculata in Flora PNW 1st Edition.
+Centaurium erythraea	Canada	British Columbia	Centaurium erythraea	Centaurium umbellatum	Gentianaceae	Centaurium erythraea	Rafn		Centaurium erythraea	Centaurium erythraea has been misapplied to Centaurium erythraea in Flora PNW 1st Edition.
+Cerastium arvense	Canada	British Columbia	Cerastium arvense	Cerastium arvense	Caryophyllaceae	Cerastium arvense	L.			
+Cerastium holosteoides	Canada	British Columbia	Cerastium fontanum ssp. vulgare	Cerastium vulgatum	Caryophyllaceae	Cerastium fontanum ssp. vulgare	Baumg.	(Hartm.) Greuter & Burdet		
+Cerastium viscosum	Canada	British Columbia	Cerastium glomeratum	Cerastium viscosum	Caryophyllaceae	Cerastium glomeratum	Thuill.			
+Chimaphila umbellata	Canada	British Columbia	Chimaphila umbellata	Chimaphila umbellata	Ericaceae	Chimaphila umbellata	(L.) W.P.C. Barton			
+Cichorium intybus	Canada	British Columbia	Cichorium intybus	Cichorium intybus	Asteraceae	Cichorium intybus	L.			
+Cicuta douglasii	Canada	British Columbia	Cicuta douglasii	Cicuta douglasii	Apiaceae	Cicuta douglasii	(DC.) J.M. Coult. & Rose			
+Cirsium arvense	Canada	British Columbia	Cirsium arvense	Cirsium arvense	Asteraceae	Cirsium arvense	(L.) Scop.			
+Cirsium vulgare	Canada	British Columbia	Cirsium vulgare	Cirsium vulgare	Asteraceae	Cirsium vulgare	(Savi) Ten.			
+Clarkia amoena	Canada	British Columbia	Clarkia amoena	Clarkia amoena	Onagraceae	Clarkia amoena	(Lehm.) A. Nelson & J.F. Macbr.			
+Claytonia perfoliata	Canada	British Columbia	Claytonia perfoliata	Montia perfoliata	Montiaceae	Claytonia perfoliata	Donn ex Willd.			
+Clinopodium douglasii	Canada	British Columbia	Clinopodium douglasii	Satureja douglasii	Lamiaceae	Clinopodium douglasii	(Benth.) Kuntze			
+Collinsia	Canada	British Columbia	Collinsia	Collinsia	Plantaginaceae	Collinsia				
+Collinsia grandiflora	Canada	British Columbia	Collinsia grandiflora	Collinsia grandiflora	Plantaginaceae	Collinsia grandiflora	Lindl.			
+Collinsia parviflora	Canada	British Columbia	Collinsia parviflora	Collinsia parviflora	Plantaginaceae	Collinsia parviflora	Lindl.			
+Comarum palustre	Canada	British Columbia	Comarum palustre	Potentilla palustris	Rosaceae	Comarum palustre	L.			
+Conioselinum gmelinii	Canada	British Columbia	Conioselinum pacificum	Conioselinum pacificum	Apiaceae	Conioselinum pacificum	(S. Watson) J.M. Coult. & Rose			
+Cornus	Canada	British Columbia	Cornus	Cornus	Cornaceae	Cornus				
+Cornus sericea	Canada	British Columbia			Cornus sericea					'Cornus sericea' is not in the UW Herbarium checklists.
+Cotoneaster horizontalis	Canada	British Columbia	Cotoneaster horizontalis		Rosaceae	Cotoneaster horizontalis	Decne.			
+Crataegus douglasii	Canada	British Columbia	Crataegus douglasii	Crataegus columbiana	Rosaceae	Crataegus douglasii	Lindl.			
+Crataegus monogyna	Canada	British Columbia	Crataegus monogyna	Crataegus monogyna	Rosaceae	Crataegus monogyna	Jacq.			
+Crepis capillaris	Canada	British Columbia	Crepis capillaris	Crepis capillaris	Asteraceae	Crepis capillaris	(L.) Wallr.			
+Cynosurus cristatus	Canada	British Columbia	Cynosurus cristatus	Cynosurus cristatus	Poaceae	Cynosurus cristatus	L.			
+Cystopteris fragilis	Canada	British Columbia	Cystopteris fragilis	Cystopteris fragilis	Cystopteridaceae	Cystopteris fragilis	(L.) Bernh.			
+Cytisus scoparius	Canada	British Columbia	Cytisus scoparius	Cytisus scoparius	Fabaceae	Cytisus scoparius	(L.) Link			
+Dactylis glomerata	Canada	British Columbia	Dactylis glomerata	Dactylis glomerata	Poaceae	Dactylis glomerata	L.			
+Danthonia	Canada	British Columbia	Danthonia	Danthonia	Poaceae	Danthonia				
+Daucus pusillus	Canada	British Columbia	Daucus pusillus	Daucus pusillus	Apiaceae	Daucus pusillus	Michx.			
+Delphinium menziesii	Canada	British Columbia	Delphinium menziesii	Delphinium menziesii	Ranunculaceae	Delphinium menziesii	DC.			
+Dichanthelium scribnerianum	Canada	British Columbia	Dichanthelium oligosanthes ssp. scribnerianum	Panicum scribnerianum	Poaceae	Dichanthelium oligosanthes ssp. scribnerianum	(Schult.) Gould	(Nash) Freckmann & Lelong		
+Digitalis purpurea	Canada	British Columbia	Digitalis purpurea	Digitalis purpurea	Plantaginaceae	Digitalis purpurea	L.			
+Distichlis spicata	Canada	British Columbia	Distichlis spicata	Distichlis spicata	Poaceae	Distichlis spicata	(L.) Greene			
+Drosera rotundifolia	Canada	British Columbia	Drosera rotundifolia	Drosera rotundifolia	Droseraceae	Drosera rotundifolia	L.			
+Dryopteris expansa	Canada	British Columbia	Dryopteris expansa	Dryopteris austriaca	Dryopteridaceae	Dryopteris expansa	(C. Presl) Fraser-Jenk. & Jermy		Dryopteris expansa	Dryopteris expansa has been misapplied to Dryopteris expansa in Flora PNW 1st Edition.
+Dulichium arundinaceum	Canada	British Columbia	Dulichium arundinaceum	Dulichium arundinaceum	Cyperaceae	Dulichium arundinaceum	(L.) Britton			
+Egeria densa	Canada	British Columbia	Egeria densa	Elodea densa	Hydrocharitaceae	Egeria densa	Planch.			
+Eleocharis palustris	Canada	British Columbia	Eleocharis palustris	Eleocharis palustris	Cyperaceae	Eleocharis palustris	(L.) Roem. & Schult.			
+Elodea canadensis	Canada	British Columbia	Elodea canadensis	Elodea canadensis	Hydrocharitaceae	Elodea canadensis	Michx.			
+Elodea densa	Canada	British Columbia	Egeria densa	Elodea densa	Hydrocharitaceae	Egeria densa	Planch.			
+Elymus glaucus	Canada	British Columbia	Elymus glaucus	Elymus glaucus	Poaceae	Elymus glaucus	Buckley			
+Elymus repens	Canada	British Columbia	Elymus repens	Agropyron repens	Poaceae	Elymus repens	(L.) Gould			
+Epilobium ciliatum watsonii	Canada	British Columbia								'Epilobium ciliatum watsonii' is not in the UW Herbarium checklists.
+Epilobium minutum	Canada	British Columbia	Epilobium minutum	Epilobium minutum	Onagraceae	Epilobium minutum	Lindl.			
+Equisetum arvense	Canada	British Columbia	Equisetum arvense	Equisetum arvense	Equisetaceae	Equisetum arvense	L.			
+Equisetum hyemale	Canada	British Columbia	Equisetum hyemale	Equisetum hyemale	Equisetaceae	Equisetum hyemale	L.			
+Eriophyllum lanatum	Canada	British Columbia	Eriophyllum lanatum	Eriophyllum lanatum	Asteraceae	Eriophyllum lanatum	(Pursh) J. Forbes			
+Erodium cicutarium	Canada	British Columbia	Erodium cicutarium	Erodium cicutarium	Geraniaceae	Erodium cicutarium	(L.) L\\\'Hér. ex Aiton			
+Erythranthe alsinoides	Canada	British Columbia	Erythranthe alsinoides	Mimulus alsinoides	Phrymaceae	Erythranthe alsinoides	(Douglas ex Benth.) G.L. Nesom & N.S. Fraga			
+Erythranthe guttata	Canada	British Columbia	Erythranthe guttata	Mimulus guttatus	Phrymaceae	Erythranthe guttata	(Fisch. ex DC.) G.L. Nesom			
+Erythronium oregonum	Canada	British Columbia	Erythronium oregonum	Erythronium oregonum	Liliaceae	Erythronium oregonum	Applegate			
+Eschscholzia californica	Canada	British Columbia	Eschscholzia californica	Eschscholzia californica	Papaveraceae	Eschscholzia californica	Cham.			
+Festuca myuros	Canada	British Columbia	Vulpia myuros	Festuca myuros	Poaceae	Vulpia myuros	(L.) C.C. Gmel.			
+Festuca occidentalis	Canada	British Columbia	Festuca occidentalis	Festuca occidentalis	Poaceae	Festuca occidentalis	Hook.			
+Festuca pratense	Canada	British Columbia	Schedonorus pratensis	Festuca pratensis	Poaceae	Schedonorus pratensis	(Huds.) P. Beauv.			
+Festuca rubra	Canada	British Columbia	Festuca rubra	Festuca rubra	Poaceae	Festuca rubra	L.			
+Festuca rubra litoralis	Canada	British Columbia								'Festuca rubra litoralis' is not in the UW Herbarium checklists.
+Festuca subuliflora	Canada	British Columbia	Festuca subuliflora	Festuca subuliflora	Poaceae	Festuca subuliflora	Scribn.			
+Filago germanica	Canada	British Columbia	Filago vulgaris		Asteraceae	Filago vulgaris	Lam.			
+Fragaria vesca	Canada	British Columbia	Fragaria vesca	Fragaria vesca	Rosaceae	Fragaria vesca	L.			
+Fragaria virginiana	Canada	British Columbia	Fragaria virginiana	Fragaria virginiana	Rosaceae	Fragaria virginiana	Mill.			
+Fritillaria lanceolata	Canada	British Columbia	Fritillaria affinis	Fritillaria lanceolata	Liliaceae	Fritillaria affinis	(Schult. & Schult. f.) Sealy			
+Galium aparine	Canada	British Columbia	Galium aparine	Galium aparine	Rubiaceae	Galium aparine	L.			
+Galium trifidum	Canada	British Columbia	Galium trifidum	Galium cymosum	Rubiaceae	Galium trifidum	L.			
+Galium triflorum	Canada	British Columbia	Galium triflorum	Galium triflorum	Rubiaceae	Galium triflorum	Michx.			
+Gaultheria shallon	Canada	British Columbia	Gaultheria shallon	Gaultheria shallon	Ericaceae	Gaultheria shallon	Pursh			
+Geranium dissectum	Canada	British Columbia	Geranium dissectum	Geranium dissectum	Geraniaceae	Geranium dissectum	L.			
+Geranium molle	Canada	British Columbia	Geranium molle	Geranium molle	Geraniaceae	Geranium molle	L.			
+Geranium robertianum	Canada	British Columbia	Geranium robertianum	Geranium robertianum	Geraniaceae	Geranium robertianum	L.			
+Geum macrophyllum	Canada	British Columbia	Geum macrophyllum	Geum macrophyllum	Rosaceae	Geum macrophyllum	Willd.			
+Gnaphalium uliginosum	Canada	British Columbia	Gnaphalium uliginosum	Gnaphalium uliginosum	Asteraceae	Gnaphalium uliginosum	L.			
+Goodyera oblongifolia	Canada	British Columbia	Goodyera oblongifolia	Goodyera oblongifolia	Orchidaceae	Goodyera oblongifolia	Raf.			
+Grindelia integrifolia	Canada	British Columbia	Grindelia integrifolia	Grindelia integrifolia	Asteraceae	Grindelia integrifolia	DC.			
+Grindellia	Canada	British Columbia								'Grindellia' is not in the UW Herbarium checklists.
+Heuchera micrantha	Canada	British Columbia	Heuchera micrantha	Heuchera micrantha	Saxifragaceae	Heuchera micrantha	Douglas ex Lindl.			
+Hieracium albiflorum	Canada	British Columbia	Hieracium albiflorum	Hieracium albiflorum	Asteraceae	Hieracium albiflorum	Hook.			
+Hippuris vulgaris	Canada	British Columbia	Hippuris vulgaris	Hippuris vulgaris	Plantaginaceae	Hippuris vulgaris	L.			
+Holcus lanatus	Canada	British Columbia	Holcus lanatus	Holcus lanatus	Poaceae	Holcus lanatus	L.			
+Holodiscus discolor	Canada	British Columbia	Holodiscus discolor	Holodiscus discolor	Rosaceae	Holodiscus discolor	(Pursh) Maxim.			
+Hordeum brachyantherum	Canada	British Columbia	Hordeum brachyantherum	Hordeum brachyantherum	Poaceae	Hordeum brachyantherum	Nevski			
+Hypericum anagalloides	Canada	British Columbia	Hypericum anagalloides	Hypericum anagalloides	Hypericaceae	Hypericum anagalloides	Cham. & Schltdl.			
+Hypericum calycinum	Canada	British Columbia	Hypericum calycinum		Hypericaceae	Hypericum calycinum	L.			
+Hypochaeris glabra	Canada	British Columbia	Hypochaeris glabra	Hypochaeris glabra	Asteraceae	Hypochaeris glabra	L.			
+Hypochaeris radicata	Canada	British Columbia	Hypochaeris radicata	Hypochaeris radicata	Asteraceae	Hypochaeris radicata	L.			
+Iris pseudacorus	Canada	British Columbia	Iris pseudacorus	Iris pseudacorus	Iridaceae	Iris pseudacorus	L.			
+Juncus acuminatus	Canada	British Columbia	Juncus acuminatus	Juncus acuminatus	Juncaceae	Juncus acuminatus	Michx.			
+Juncus balticus	Canada	British Columbia	Juncus balticus	Juncus balticus	Juncaceae	Juncus balticus	Willd.			
+Juncus balticus filiformis	Canada	British Columbia								'Juncus balticus filiformis' is not in the UW Herbarium checklists.
+Juncus bufonius	Canada	British Columbia	Juncus bufonius	Juncus bufonius	Juncaceae	Juncus bufonius	L.			
+Juncus effusus	Canada	British Columbia	Juncus effusus	Juncus effusus	Juncaceae	Juncus effusus	L.			
+Juncus ensifolius	Canada	British Columbia	Juncus ensifolius	Juncus ensifolius	Juncaceae	Juncus ensifolius	Wikstr.			
+Juniperus scopulorum	Canada	British Columbia	Juniperus scopulorum	Juniperus scopulorum	Cupressaceae	Juniperus scopulorum	Sarg.			
+Kalmia polifolia	Canada	British Columbia			Ericaceae	Kalmia polifolia	Wangenh.			
+Kindbergia oregana	Canada	British Columbia			Brachytheciaceae	Eurhynchium oreganum	(Sull.) Jaeg.			
+Lactuca muralis	Canada	British Columbia	Mycelis muralis	Lactuca muralis	Asteraceae	Mycelis muralis	(L.) Dumort.			
+Lathyrus japonicus	Canada	British Columbia	Lathyrus japonicus	Lathyrus japonicus	Fabaceae	Lathyrus japonicus	Willd.			
+Lathyrus nevadensis	Canada	British Columbia	Lathyrus nevadensis	Lathyrus nevadensis	Fabaceae	Lathyrus nevadensis	S. Watson			
+Lemna minor	Canada	British Columbia	Lemna minor	Lemna minor	Araceae	Lemna minor	L.			
+Lepidium virginicum	Canada	British Columbia	Lepidium virginicum	Lepidium virginicum	Brassicaceae	Lepidium virginicum	L.			
+Leymus mollis	Canada	British Columbia	Leymus mollis	Elymus mollis	Poaceae	Leymus mollis	(Trin.) Pilg.			
+Linnaea borealis	Canada	British Columbia	Linnaea borealis	Linnaea borealis	Linnaeaceae	Linnaea borealis	L.			
+Lithophragma parviflorum	Canada	British Columbia	Lithophragma parviflorum	Lithophragma parviflora	Saxifragaceae	Lithophragma parviflorum	(Hook.) Nutt.			
+Lolium perenne	Canada	British Columbia	Lolium perenne	Lolium perenne	Poaceae	Lolium perenne	L.			
+Lonicera ciliosa	Canada	British Columbia	Lonicera ciliosa	Lonicera ciliosa	Caprifoliaceae	Lonicera ciliosa	(Pursh) Poir. ex DC.			
+Lonicera hispidula	Canada	British Columbia	Lonicera hispidula	Lonicera hispidula	Caprifoliaceae	Lonicera hispidula	(Lindl.) Douglas ex Torr. & A. Gray			
+Lonicera involucrata	Canada	British Columbia	Lonicera involucrata	Lonicera involucrata	Caprifoliaceae	Lonicera involucrata	(Richardson) Banks ex Spreng.			
+Lotus corniculatus	Canada	British Columbia	Lotus corniculatus	Lotus corniculatus	Fabaceae	Lotus corniculatus	L.			
+Luzula campestris	Canada	British Columbia	Luzula campestris	Luzula campestris	Juncaceae	Luzula campestris	(L.) DC.			
+Luzula multiflora	Canada	British Columbia	Luzula multiflora	Luzula campestris var. frigida	Juncaceae	Luzula multiflora	(Ehrh.) Lej.		Luzula multiflora	Luzula multiflora has been misapplied to Luzula multiflora in Flora PNW 1st Edition.
+Luzula parviflora	Canada	British Columbia	Luzula parviflora	Luzula divaricata	Juncaceae	Luzula parviflora	(Ehrh.) Desv.		Luzula parviflora	Luzula parviflora has been misapplied to Luzula parviflora in Flora PNW 1st Edition.
+Lycopus	Canada	British Columbia	Lycopus	Lycopus	Lamiaceae	Lycopus				
+Lycopus americanus	Canada	British Columbia	Lycopus americanus	Lycopus americanus	Lamiaceae	Lycopus americanus	Muhl. ex W.P.C. Bartr.			
+Lycopus uniflorus	Canada	British Columbia	Lycopus uniflorus	Lycopus uniflorus	Lamiaceae	Lycopus uniflorus	Michx.			
+Lysichiton	Canada	British Columbia	Lysichiton	Lysichitum	Araceae	Lysichiton				
+Lysichiton americanus	Canada	British Columbia	Lysichiton americanus	Lysichitum americanum	Araceae	Lysichiton americanus	Hulten & H. St. John			
+Lysimachia latifolia	Canada	British Columbia	Lysimachia latifolia	Trientalis latifolia	Primulaceae	Lysimachia latifolia	(Hook.) Cholewa			
+Lysimachia thyrsiflora	Canada	British Columbia	Lysimachia thyrsiflora	Lysimachia thyrsiflora	Primulaceae	Lysimachia thyrsiflora	L.			
+Madia gracilis	Canada	British Columbia	Madia gracilis	Madia gracilis	Asteraceae	Madia gracilis	(Sm.) D.D. Keck			
+Madia madioides	Canada	British Columbia	Anisocarpus madioides	Madia madioides	Asteraceae	Anisocarpus madioides	Nutt.			
+Malus fusca	Canada	British Columbia	Malus fusca	Pyrus fusca	Rosaceae	Malus fusca	(Raf.) C.K. Schneid.			
+Marsippospermum gracile	Canada	British Columbia								'Marsippospermum gracile' is not in the UW Herbarium checklists.
+Matricaria discoidea	Canada	British Columbia	Matricaria discoidea	Matricaria matricarioides	Asteraceae	Matricaria discoidea	DC.		Matricaria discoidea	Matricaria discoidea has been misapplied to Matricaria discoidea in Flora PNW 1st Edition.
+Melica harfordii	Canada	British Columbia	Melica harfordii	Melica harfordii	Poaceae	Melica harfordii	Bol.			
+Melica subulata	Canada	British Columbia	Melica subulata	Melica subulata	Poaceae	Melica subulata	(Griseb.) Scribn.			
+Melilotus albus	Canada	British Columbia	Melilotus albus	Melilotus alba	Fabaceae	Melilotus albus	Medik.			
+Mentha arvensis	Canada	British Columbia	Mentha canadensis	Mentha arvensis	Lamiaceae	Mentha canadensis	L.		Mentha canadensis	Mentha arvensis has been misapplied to Mentha canadensis in British Columbia, Idaho, Montana, Oregon, Washington, Flora PNW 1st Edition.
+Micranthes integrifolia	Canada	British Columbia	Micranthes integrifolia	Saxifraga integrifolia	Saxifragaceae	Micranthes integrifolia	(Hook.) Small			
+Micranthes rufidula	Canada	British Columbia	Micranthes rufidula	Saxifraga occidentalis var. rufidula	Saxifragaceae	Micranthes rufidula	Small			
+Mimulus	Canada	British Columbia	Mimulus	Mimulus	Phrymaceae	Mimulus				
+Moehringia macrophylla	Canada	British Columbia	Moehringia macrophylla	Arenaria macrophylla	Caryophyllaceae	Moehringia macrophylla	(Hook.) Fenzl			
+Monotropa uniflora	Canada	British Columbia	Monotropa uniflora	Monotropa uniflora	Ericaceae	Monotropa uniflora	L.			
+Montia fontana	Canada	British Columbia	Montia fontana	Montia fontana	Montiaceae	Montia fontana	L.			
+Montia parvifolia	Canada	British Columbia	Montia parvifolia	Montia parvifolia	Montiaceae	Montia parvifolia	(Moc. ex DC.) Greene			
+Montia perfoliata	Canada	British Columbia	Claytonia perfoliata	Montia perfoliata	Montiaceae	Claytonia perfoliata	Donn ex Willd.			
+Mycelis muralis	Canada	British Columbia	Mycelis muralis	Lactuca muralis	Asteraceae	Mycelis muralis	(L.) Dumort.			
+Myosotis discolor	Canada	British Columbia	Myosotis discolor	Myosotis discolor	Boraginaceae	Myosotis discolor	Pers.			
+Myosotis latifolia	Canada	British Columbia	Myosotis latifolia		Boraginaceae	Myosotis latifolia	Poir.			
+Myosotis laxa	Canada	British Columbia	Myosotis laxa	Myosotis laxa	Boraginaceae	Myosotis laxa	Lehm.			
+Myriophyllum	Canada	British Columbia	Myriophyllum	Myriophyllum	Haloragaceae	Myriophyllum				
+Myriopphyllum spicatum	Canada	British Columbia								'Myriopphyllum spicatum' is not in the UW Herbarium checklists.
+Nemophila parviflora	Canada	British Columbia	Nemophila parviflora	Nemophila parviflora	Hydrophyllaceae	Nemophila parviflora	Douglas ex Benth.			
+Neottia cordata	Canada	British Columbia	Neottia cordata	Listera cordata	Orchidaceae	Neottia cordata	(L.) Richardson			
+Nuphar polysepala	Canada	British Columbia	Nuphar polysepala	Nuphar polysepalum	Nymphaeaceae	Nuphar polysepala	Engelm.			
+Nymphae odorata	Canada	British Columbia								'Nymphae odorata' is not in the UW Herbarium checklists.
+Oenanthe	Canada	British Columbia	Oenanthe	Oenanthe	Apiaceae	Oenanthe				
+Oenanthe sarmentosa	Canada	British Columbia	Oenanthe sarmentosa	Oenanthe sarmentosa	Apiaceae	Oenanthe sarmentosa	C. Presl ex DC.			
+Oenothera	Canada	British Columbia	Oenothera	Gaura	Onagraceae	Oenothera				
+Oplopanax horridus	Canada	British Columbia	Oplopanax horridus	Oplopanax horridum	Araliaceae	Oplopanax horridus	(Sm.) Miq.			
+Opuntia fragilis	Canada	British Columbia	Opuntia fragilis	Opuntia fragilis	Cactaceae	Opuntia fragilis	(Nutt.) Haw.			
+Orobanche uniflorum	Canada	British Columbia								'Orobanche uniflorum' is not in the UW Herbarium checklists.
+Osmorhiza berteroi	Canada	British Columbia	Osmorhiza berteroi	Osmorhiza chilensis	Apiaceae	Osmorhiza berteroi	DC.			
+Packera macounii	Canada	British Columbia	Packera macounii	Senecio macounii	Asteraceae	Packera macounii	(Greene) W.A. Weber & Á. Löve			
+Papaver orientale	Canada	British Columbia			Papaveraceae	Papaver orientale	L.			
+Papaver somniferum	Canada	British Columbia	Papaver somniferum	Papaver somniferum	Papaveraceae	Papaver somniferum	L.			
+Paxistima myrsinites	Canada	British Columbia	Paxistima myrsinites	Pachistima myrsinites	Celastraceae	Paxistima myrsinites	(Pursh) Raf.			
+Pentagramma triangularis	Canada	British Columbia	Pentagramma triangularis	Pityrogramma triangularis	Pteridaceae	Pentagramma triangularis	(Kaulf.) Yatsk., Windham & E. Wollenw.			
+Persicaria amphibia emersa	Canada	British Columbia								'Persicaria amphibia emersa' is not in the UW Herbarium checklists.
+Phalaris arundinacea	Canada	British Columbia	Phalaris arundinacea	Phalaris arundinacea	Poaceae	Phalaris arundinacea	L.			
+Phleum pratense	Canada	British Columbia	Phleum pratense	Phleum pratense	Poaceae	Phleum pratense	L.			
+Picea sitchensis	Canada	British Columbia	Picea sitchensis	Picea sitchensis	Pinaceae	Picea sitchensis	(Bong.) Carrière			
+Pinus contorta	Canada	British Columbia	Pinus contorta	Pinus contorta	Pinaceae	Pinus contorta	Douglas ex Loudon			
+Plantago elongata	Canada	British Columbia	Plantago elongata	Plantago elongata	Plantaginaceae	Plantago elongata	Pursh			
+Plantago lanceolata	Canada	British Columbia	Plantago lanceolata	Plantago lanceolata	Plantaginaceae	Plantago lanceolata	L.			
+Plantago major	Canada	British Columbia	Plantago major	Plantago major	Plantaginaceae	Plantago major	L.			
+Plantago maritima	Canada	British Columbia	Plantago maritima	Plantago maritima	Plantaginaceae	Plantago maritima	L.			
+Platanthera elegans	Canada	British Columbia	Platanthera elegans	Habenaria greenei	Orchidaceae	Platanthera elegans	Lindl.			
+Plectritis congesta	Canada	British Columbia	Plectritis congesta	Plectritis congesta	Valerianaceae	Plectritis congesta	(Lindl.) DC.			
+Poa annua	Canada	British Columbia	Poa annua	Poa annua	Poaceae	Poa annua	L.			
+Poa compressa	Canada	British Columbia	Poa compressa	Poa compressa	Poaceae	Poa compressa	L.			
+Poa howellii	Canada	British Columbia	Poa howellii	Poa howellii	Poaceae	Poa howellii	Vasey & Scribn.			
+Poa pratensis	Canada	British Columbia	Poa pratensis	Poa pratensis	Poaceae	Poa pratensis	L.			
+Poa trivialis	Canada	British Columbia	Poa trivialis	Poa trivialis	Poaceae	Poa trivialis	L.			
+Polygonum aviculare	Canada	British Columbia	Polygonum aviculare	Polygonum aviculare	Polygonaceae	Polygonum aviculare	L.			
+Polypodium glycyrrhiza	Canada	British Columbia	Polypodium glycyrrhiza	Polypodium glycyrrhiza	Polypodiaceae	Polypodium glycyrrhiza	D.C. Eaton			
+Polystichum	Canada	British Columbia	Polystichum	Polystichum	Dryopteridaceae	Polystichum				
+Polystichum munitum	Canada	British Columbia	Polystichum munitum	Polystichum munitum	Dryopteridaceae	Polystichum munitum	(Kaulf.) C. Presl			
+Populus tremuloides	Canada	British Columbia	Populus tremuloides	Populus tremuloides	Salicaceae	Populus tremuloides	Michx.			
+Potamogeton amplifolius	Canada	British Columbia	Potamogeton amplifolius	Potamogeton amplifolius	Potamogetonaceae	Potamogeton amplifolius	Tuck.			
+Potamogeton natans	Canada	British Columbia	Potamogeton natans	Potamogeton natans	Potamogetonaceae	Potamogeton natans	L.			
+Potamogeton praelongus	Canada	British Columbia	Potamogeton praelongus	Potamogeton praelongus	Potamogetonaceae	Potamogeton praelongus	Wulfen			
+Potamogeton richardsonii	Canada	British Columbia	Potamogeton richardsonii	Potamogeton richardsonii	Potamogetonaceae	Potamogeton richardsonii	(A. Benn.) Rydb.			
+Potamogeton robbinsii	Canada	British Columbia	Potamogeton robbinsii	Potamogeton robbinsii	Potamogetonaceae	Potamogeton robbinsii	Oakes			
+Potamogeton robinsii	Canada	British Columbia								'Potamogeton robinsii' is not in the UW Herbarium checklists.
+Prunella vulgaris	Canada	British Columbia	Prunella vulgaris	Prunella vulgaris	Lamiaceae	Prunella vulgaris	L.			
+Prunus emarginata	Canada	British Columbia	Prunus emarginata	Prunus emarginata	Rosaceae	Prunus emarginata	(Douglas) Eaton			
+Pseudotsuga menziesii	Canada	British Columbia	Pseudotsuga menziesii	Pseudotsuga menziesii	Pinaceae	Pseudotsuga menziesii	(Mirb.) Franco			
+Psuedotsuga menziesii	Canada	British Columbia								'Psuedotsuga menziesii' is not in the UW Herbarium checklists.
+Pteridium aquilinum	Canada	British Columbia	Pteridium aquilinum	Pteridium aquilinum	Dennstaedtiaceae	Pteridium aquilinum	(L.) Kuhn			
+Puccinellia	Canada	British Columbia	Puccinellia	Puccinellia	Poaceae	Puccinellia				
+Pyrola aphylla	Canada	British Columbia	Pyrola aphylla	Pyrola aphylla	Ericaceae	Pyrola aphylla	Sm.			
+Quercus garryana	Canada	British Columbia	Quercus garryana	Quercus garryana	Fagaceae	Quercus garryana	Douglas ex Hook.			
+Racomitrium canenscens	Canada	British Columbia								'Racomitrium canenscens' is not in the UW Herbarium checklists.
+Racomitrium canescens	Canada	British Columbia			Grimmiaceae	Niphotrichum canescens	(Hedw.) Bednarek-Ochyra & Ochyra			
+Racomitrium heterostichum	Canada	British Columbia			Grimmiaceae	Bucklandiella heterosticha	(Hedw.) Bednarek-Ochyra & Ochyra			
+Ranunculus acris	Canada	British Columbia	Ranunculus acris	Ranunculus acris	Ranunculaceae	Ranunculus acris	L.			
+Ranunculus aquatilis	Canada	British Columbia	Ranunculus aquatilis	Ranunculus aquatilis	Ranunculaceae	Ranunculus aquatilis	L.			
+Ranunculus flammula	Canada	British Columbia	Ranunculus flammula	Ranunculus flammula	Ranunculaceae	Ranunculus flammula	L.			
+Ranunculus occidentalis	Canada	British Columbia	Ranunculus occidentalis	Ranunculus occidentalis	Ranunculaceae	Ranunculus occidentalis	Nutt.			
+Ranunculus repens	Canada	British Columbia	Ranunculus repens	Ranunculus repens	Ranunculaceae	Ranunculus repens	L.			
+Ranunculus uncinatus	Canada	British Columbia	Ranunculus uncinatus	Ranunculus uncinatus	Ranunculaceae	Ranunculus uncinatus	D. Don			
+Rhododendron groenlandicum	Canada	British Columbia	Rhododendron groenlandicum	Ledum groenlandicum	Ericaceae	Rhododendron groenlandicum	(Oeder) Kron & Judd			
+Ribes divaricatum	Canada	British Columbia	Ribes divaricatum	Ribes divaricatum	Grossulariaceae	Ribes divaricatum	Douglas			
+Ribes sanguineum	Canada	British Columbia	Ribes sanguineum	Ribes sanguineum	Grossulariaceae	Ribes sanguineum	Pursh			
+Rosa gymnocarpa	Canada	British Columbia	Rosa gymnocarpa	Rosa gymnocarpa	Rosaceae	Rosa gymnocarpa	Nutt.			
+Rosa nutkana	Canada	British Columbia	Rosa nutkana	Rosa nutkana	Rosaceae	Rosa nutkana	C. Presl			
+Rubus armeniacus	Canada	British Columbia	Rubus armeniacus		Rosaceae	Rubus armeniacus	Focke		Rubus bifrons	Rubus armeniacus has been misapplied to Rubus bifrons in British Columbia, Yukon Territory, Alaska, Washington, Oregon, Idaho, Montana.
+Rubus leucodermis	Canada	British Columbia	Rubus leucodermis	Rubus leucodermis	Rosaceae	Rubus leucodermis	Douglas ex Torr. & A. Gray			
+Rubus spectabilis	Canada	British Columbia	Rubus spectabilis	Rubus spectabilis	Rosaceae	Rubus spectabilis	Pursh			
+Rubus ursinus	Canada	British Columbia	Rubus ursinus	Rubus ursinus	Rosaceae	Rubus ursinus	Cham. & Schltdl.			
+Rumex	Canada	British Columbia	Rumex	Rumex	Polygonaceae	Rumex				
+Rumex acetosella	Canada	British Columbia	Rumex acetosella	Rumex acetosella	Polygonaceae	Rumex acetosella	L.			
+Rumex crispus	Canada	British Columbia	Rumex crispus	Rumex crispus	Polygonaceae	Rumex crispus	L.			
+Sagina maxima crassicaulis	Canada	British Columbia								'Sagina maxima crassicaulis' is not in the UW Herbarium checklists.
+Sagina procumbens	Canada	British Columbia	Sagina procumbens	Sagina procumbens	Caryophyllaceae	Sagina procumbens	L.			
+Salicornia depressa	Canada	British Columbia	Salicornia depressa	Salicornia europaea	Amaranthaceae	Salicornia depressa	Standl.		Salicornia depressa	Salicornia depressa has been misapplied to Salicornia depressa in Flora PNW 1st Edition.
+Salix	Canada	British Columbia	Salix	Salix	Salicaceae	Salix				
+Salix lasiandra	Canada	British Columbia	Salix lasiandra	Salix lasiandra	Salicaceae	Salix lasiandra	Benth.			
+Salix scouleriana	Canada	British Columbia	Salix scouleriana	Salix scouleriana	Salicaceae	Salix scouleriana	Barratt ex Hook.			
+Sanicula crassicaulis	Canada	British Columbia	Sanicula crassicaulis	Sanicula crassicaulis	Apiaceae	Sanicula crassicaulis	Poepp. ex DC.			
+Santolina chamaecyparissus	Canada	British Columbia			Asteraceae	Santolina chamaecyparissus	L.			
+Saxifraga cespitosa	Canada	British Columbia	Saxifraga cespitosa	Saxifraga caespitosa	Saxifragaceae	Saxifraga cespitosa	L.			
+Schoenoplectus acutus	Canada	British Columbia	Schoenoplectus acutus	Scirpus acutus	Cyperaceae	Schoenoplectus acutus	(Muhl. ex Bigelow) Á. Löve & D. Löve			
+Scirpus acutus	Canada	British Columbia	Schoenoplectus acutus	Scirpus acutus	Cyperaceae	Schoenoplectus acutus	(Muhl. ex Bigelow) Á. Löve & D. Löve			
+Scirpus microcarpus	Canada	British Columbia	Scirpus microcarpus	Scirpus microcarpus	Cyperaceae	Scirpus microcarpus	J. Presl & C. Presl			
+Sedum	Canada	British Columbia	Sedum	Sedum	Crassulaceae	Sedum				
+Sedum acre	Canada	British Columbia	Sedum acre	Sedum acre	Crassulaceae	Sedum acre	L.			
+Sedum album	Canada	British Columbia	Sedum album		Crassulaceae	Sedum album	L.			
+Sedum lanceolatum	Canada	British Columbia	Sedum lanceolatum	Sedum lanceolatum	Crassulaceae	Sedum lanceolatum	Torr.			
+Sedum oreganum	Canada	British Columbia	Sedum oreganum	Sedum oreganum	Crassulaceae	Sedum oreganum	Nutt.			
+Sedum spathulifolium	Canada	British Columbia	Sedum spathulifolium	Sedum spathulifolium	Crassulaceae	Sedum spathulifolium	Hook.			
+Selaginella wallacei	Canada	British Columbia	Selaginella wallacei	Selaginella wallacei	Selaginellaceae	Selaginella wallacei	Hieron.			
+Senecio sylvaticus	Canada	British Columbia	Senecio sylvaticus	Senecio sylvaticus	Asteraceae	Senecio sylvaticus	L.			
+Shepherdia canadensis	Canada	British Columbia	Shepherdia canadensis	Shepherdia canadensis	Elaeagnaceae	Shepherdia canadensis	(L.) Nutt.			
+Sherardia arvensis	Canada	British Columbia	Sherardia arvensis	Sherardia arvensis	Rubiaceae	Sherardia arvensis	L.			
+Silene coronaria	Canada	British Columbia	Lychnis coronaria	Lychnis coronaria	Caryophyllaceae	Lychnis coronaria	(L.) Desr.			
+Sinapis arvensis	Canada	British Columbia	Sinapis arvensis	Brassica kaber	Brassicaceae	Sinapis arvensis	L.			
+Sisymbrium officinale	Canada	British Columbia	Sisymbrium officinale	Sisymbrium officinale	Brassicaceae	Sisymbrium officinale	(L.) Scop.			
+Sium suave	Canada	British Columbia	Sium suave	Sium suave	Apiaceae	Sium suave	Walter			
+Sonchus asper	Canada	British Columbia	Sonchus asper	Sonchus asper	Asteraceae	Sonchus asper	(L.) Hill			
+Sparganium e	Canada	British Columbia								'Sparganium e' is not in the UW Herbarium checklists.
+Sparganium emersum	Canada	British Columbia	Sparganium emersum	Sparganium emersum	Typhaceae	Sparganium emersum	Rehmann			
+Spergularia canadensis	Canada	British Columbia	Spergularia canadensis	Spergularia canadensis	Caryophyllaceae	Spergularia canadensis	(Pers.) G. Don			
+Spergularia rubra	Canada	British Columbia	Spergularia rubra	Spergularia rubra	Caryophyllaceae	Spergularia rubra	(L.) J. Presl & C. Presl			
+Sphagnum	Canada	British Columbia			Sphagnaceae	Sphagnum				
+Spiraea	Canada	British Columbia	Spiraea	Spiraea	Rosaceae	Spiraea				
+Spiraea douglasii	Canada	British Columbia	Spiraea douglasii	Spiraea douglasii	Rosaceae	Spiraea douglasii	Hook.			
+Spiraea douglassii	Canada	British Columbia								'Spiraea douglassii' is not in the UW Herbarium checklists.
+Stellaria calycantha	Canada	British Columbia	Stellaria calycantha	Stellaria calycantha	Caryophyllaceae	Stellaria calycantha	(Ledeb.) Bong.			
+Stellaria crispa	Canada	British Columbia	Stellaria crispa	Stellaria crispa	Caryophyllaceae	Stellaria crispa	Cham. & Schltdl.			
+Stellaria media	Canada	British Columbia	Stellaria media	Stellaria media	Caryophyllaceae	Stellaria media	(L.) Vill.			
+Symphoricarpos albus	Canada	British Columbia	Symphoricarpos albus	Symphoricarpos albus	Caprifoliaceae	Symphoricarpos albus	(L.) S.F. Blake			
+Symphyotricum subspicatum	Canada	British Columbia								'Symphyotricum subspicatum' is not in the UW Herbarium checklists.
+Taraxacum officinale	Canada	British Columbia	Taraxacum officinale	Taraxacum officinale	Asteraceae	Taraxacum officinale	F.H. Wigg.			
+Taxus brevifolia	Canada	British Columbia	Taxus brevifolia	Taxus brevifolia	Taxaceae	Taxus brevifolia	Nutt.			
+Thuja plicata	Canada	British Columbia	Thuja plicata	Thuja plicata	Cupressaceae	Thuja plicata	Donn ex D. Don			
+Thysanocarpus curvipes	Canada	British Columbia	Thysanocarpus curvipes	Thysanocarpus curvipes	Brassicaceae	Thysanocarpus curvipes	Hook.			
+Torilis japonica	Canada	British Columbia	Torilis japonica	Torilis japonica	Apiaceae	Torilis japonica	(Houtt.) DC.			
+Torreyochloa pallida pauciflora	Canada	British Columbia								'Torreyochloa pallida pauciflora' is not in the UW Herbarium checklists.
+Toxicoscordion venenosum	Canada	British Columbia	Toxicoscordion venenosum	Zigadenus venenosus	Melanthiaceae	Toxicoscordion venenosum	(S. Watson) Rydb.			
+Tragopogon dubius	Canada	British Columbia	Tragopogon dubius	Tragopogon dubius	Asteraceae	Tragopogon dubius	Scop.			
+Trifolium	Canada	British Columbia	Trifolium	Trifolium	Fabaceae	Trifolium				
+Trifolium dubium	Canada	British Columbia	Trifolium dubium	Trifolium dubium	Fabaceae	Trifolium dubium	Sibth.			
+Trifolium macraei	Canada	British Columbia	Trifolium macraei	Trifolium macraei	Fabaceae	Trifolium macraei	Hook. & Arn.		Trifolium macraei	Trifolium macraei has been misapplied to Trifolium macraei in Flora PNW 1st Edition.
+Trifolium microcephalum	Canada	British Columbia	Trifolium microcephalum	Trifolium microcephalum	Fabaceae	Trifolium microcephalum	Pursh			
+Trifolium oliganthum	Canada	British Columbia	Trifolium oliganthum	Trifolium oliganthum	Fabaceae	Trifolium oliganthum	Steud.			
+Trifolium repens	Canada	British Columbia	Trifolium repens	Trifolium repens	Fabaceae	Trifolium repens	L.			
+Trifolium subterraneum	Canada	British Columbia	Trifolium subterraneum	Trifolium subterraneum	Fabaceae	Trifolium subterraneum	L.			
+Trifolium willdenovii	Canada	British Columbia	Trifolium willdenovii	Trifolium tridentatum	Fabaceae	Trifolium willdenovii	Spreng.			
+Triglochin maritima	Canada	British Columbia	Triglochin maritima	Triglochin maritimum	Juncaginaceae	Triglochin maritima	L.			
+Triphysaria pusilla	Canada	British Columbia	Triphysaria pusilla	Orthocarpus pusillus	Orobanchaceae	Triphysaria pusilla	(Benth.) T.I. Chuang & Heckard			
+Trisetum canescens	Canada	British Columbia	Trisetum canescens	Trisetum canescens	Poaceae	Trisetum canescens	Buckley			
+Tsuga heterophylla	Canada	British Columbia	Tsuga heterophylla	Tsuga heterophylla	Pinaceae	Tsuga heterophylla	(Raf.) Sarg.			
+Typha	Canada	British Columbia	Typha	Typha	Typhaceae	Typha				
+Typha latifolia	Canada	British Columbia	Typha latifolia	Typha latifolia	Typhaceae	Typha latifolia	L.			
+Umbilicaria	Canada	British Columbia				Umbilicaria				
+Urtica dioica	Canada	British Columbia	Urtica dioica	Urtica dioica	Urticaceae	Urtica dioica	L.			
+Vaccinium parvifolium	Canada	British Columbia	Vaccinium parvifolium	Vaccinium parvifolium	Ericaceae	Vaccinium parvifolium	Sm.			
+Verbascum thapsus	Canada	British Columbia	Verbascum thapsus	Verbascum thapsus	Scrophulariaceae	Verbascum thapsus	L.			
+Veronica americana	Canada	British Columbia	Veronica americana	Veronica americana	Plantaginaceae	Veronica americana	Schwein. ex Benth.			
+Veronica arvensis	Canada	British Columbia	Veronica arvensis	Veronica arvensis	Plantaginaceae	Veronica arvensis	L.			
+Veronica officinalis	Canada	British Columbia	Veronica officinalis	Veronica officinalis	Plantaginaceae	Veronica officinalis	L.			
+Veronica scutellata	Canada	British Columbia	Veronica scutellata	Veronica scutellata	Plantaginaceae	Veronica scutellata	L.			
+Veronica serpyllifolia	Canada	British Columbia	Veronica serpyllifolia	Veronica serpyllifolia	Plantaginaceae	Veronica serpyllifolia	L.			
+Vicia americana	Canada	British Columbia	Vicia americana	Vicia americana	Fabaceae	Vicia americana	Muhl. ex Willd.			
+Vicia gigantea	Canada	British Columbia	Vicia nigricans var. gigantea	Vicia gigantea	Fabaceae	Vicia nigricans var. gigantea	Hook. & Arn.	(Hook.) Broich		
+Vicia sativa	Canada	British Columbia	Vicia sativa	Vicia sativa	Fabaceae	Vicia sativa	L.			
+Vinca major	Canada	British Columbia	Vinca major	Vinca major	Apocynaceae	Vinca major	L.			
+Viola palustris	Canada	British Columbia	Viola palustris	Viola palustris	Violaceae	Viola palustris	L.			
+Vulpia	Canada	British Columbia	Vulpia	Festuca	Poaceae	Vulpia				
+Vulpia myuros megalura	Canada	British Columbia								'Vulpia myuros megalura' is not in the UW Herbarium checklists.
+Zostera marina	Canada	British Columbia	Zostera marina	Zostera marina	Zosteraceae	Zostera marina	L.			

@@ -1,5 +1,5 @@
 ---
-title: "Data Processing Protocol for Harvey Janszen Field Notes"
+title: "Data Processing Protocol for Harvey Janszen Field Notes (Hackathon Version)"
 author: "Emma Menchions"
 date: "`r Sys.Date()`"
 output: html_document
@@ -7,7 +7,11 @@ output: html_document
 
 # Overview
 
-## Components
+Task 1 = copying the newly added rows from each group in the raw datasheets for each journal located in this repository (for occurrence data and collection data types separately)
+
+Task 2 = running the scripts in the order below (for occurrence and collection data in separate workspaces)
+
+## Running the scripts 
 
 This data processing workflow is segmented into 3 main components:
 
@@ -15,7 +19,15 @@ Step 1 = **data checking** (fixing known errors or uncertainties)
 
 Step 2= **data cleaning** (finding and fixing small unknown errors)
 
-Step 3 = **data conversion** (converting the data format to Darwin Core data standards)
+Step 3 = **data conversion** (converting the data format to Darwin Core data standards) (itself is made up of 4 scripts)
+
+-   general formatting
+
+-   taxonomy checking
+
+-   georeferencing
+
+-   addtional fields
 
 The scripts are also designed so that data can be continually entered on the same entry excel sheets and only the newly added rows will be selected for cleaning, checking and conversion, and added to the previously processed data once the new data has been processed.
 
@@ -39,19 +51,19 @@ There are a total of 4 scripts for all three steps which can be found in the fol
 
 # Setup
 
-1) Download the repository from Github: <https://github.com/emench/Harvey_Janszen_Legacy_Project>
+1)  Download the repository from Github: <https://github.com/emench/Harvey_Janszen_Legacy_Project>
 
 This repository contains all of the existing data, scripts, and packages required to perform data processing'
 
-2) Set up data entry sheets for every separate collector journal using the template templates in data \> data_digitization \> occurrence_data OR collection_data \> 1_raw_data
+2)  Set up data entry sheets for every separate collector journal using the template templates in data \> data_digitization \> occurrence_data OR collection_data \> 1_raw_data
 
 -   label these as "[collector_Initials]-[journal_number]-coll OR occ-entry-template.xlsx"
 
-3) Enter data in these templates following the occ-data-entry and coll-data-entry protocols found in the protocols section of the repository
+3)  Enter data in these templates following the occ-data-entry and coll-data-entry protocols found in the protocols section of the repository
 
 -   make sure there is a template for every journal you intend to enter data for - these don't have to be filled out, their names just have to be present for the code to work later
 
-4) Follow the following steps to repeatedly process newly entered data
+4)  Follow the following steps to repeatedly process newly entered data
 
 # Processing step I: data checking
 

@@ -157,6 +157,7 @@ AI <- "HJ" # AUTHOR INITIALS
                     !is.na(sciName)) %>% 
     dplyr::filter(., rowSums(is.na(.)) != ncol(.)) %>% 
     relocate(dataEntryRemarks, .before = archiveID)
+    
   
   for (i in 1:dim(checked_data)[1]){  # for each row in the checked frame
     
@@ -176,7 +177,8 @@ AI <- "HJ" # AUTHOR INITIALS
       } else { # if a given row in the checked data does not have a "Y" in the "toDelete" column...
       raw_data[ # if its pageNum and numPage match that in raw data
       which(checked_data$pageNum[i] == raw_data$pageNum &
-      checked_data$numPage[i] == raw_data$numPage),] <- 
+      checked_data$numPage[i] == raw_data$numPage &
+      checked_data$archiveID[i]==raw_data$archiveID),] <- 
         # assign raw data column to that row of checked data
         checked_data[i,3:dim(checked_data)[2]]
     }
