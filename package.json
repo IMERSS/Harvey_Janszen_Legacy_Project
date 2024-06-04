@@ -1,0 +1,26 @@
+{
+    "name": "harvey-janszen-legacy-project",
+    "description": "Data entry templates, digitization protocols, processing scripts, and digitized data outputs for the field notes of Harvey Janszen",
+    "version": "0.0.1",
+    "author": "Andrew Simon",
+    "scripts": {
+        "lint": "fluid-lint-all"
+    },
+    "dependencies": {},
+    "devDependencies": {
+        "infusion": "4.6.0",
+        "linkedom": "0.18.2",
+        "csv-writer": "1.6.0",
+        "eslint": "8.57.0",
+        "eslint-config-fluid": "2.1.1",
+        "fluid-lint-all": "1.2.10"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/IMERSS/Harvey_Janszen_Legacy_Project.git"
+    },
+    "engines": {
+        "node": ">=14.0.0"
+    },
+    "license": "BSD-3-Clause"
+}
