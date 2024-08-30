@@ -1,0 +1,1322 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+<html>
+
+<head>
+<base href="https://a100.gov.bc.ca/pub/eswp/jsp/resultsExport.jsp"><title>BC Species and Ecosystems Explorer Search Results Export</title>
+
+<style type="text/css">
+    br {mso-data-placement:same-cell;}
+    ol {mso-data-placement:same-cell;}
+    li {mso-data-placement:same-cell;}
+    p	{mso-data-placement:same-cell;}
+</style>
+
+</head>
+<body>
+
+<table>
+<thead>
+<tr>
+<th>Element Code</th>
+<th>Scientific Name</th>
+<th>English Name</th>
+<th>Biogeoclimatic Units</th>
+<th>Provincial</th>
+<th>BC List</th>
+<th>Global</th>
+<th>COSEWIC</th>
+<th>SARA</th>
+<th>Provincial FRPA</th>
+<th>Land Use Objectives</th>
+<th>CDC Mapped Locations - Public</th>
+<th>CDC Mapped Locations - Confidential</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=PDNYC010C0">PDNYC010C0</a></td>
+<td>
+<i>Abronia latifolia</i></td>
+<td>
+yellow sand-verbena</td>
+<td>
+CDFmm; CWHvm; CWHxm</td>
+<td>
+S3 (2019)</td>
+<td>
+Blue</td>
+<td>
+G5 (1988)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center">Y</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=PMLIL02040">PMLIL02040</a></td>
+<td>
+<i>Allium amplectens</i></td>
+<td>
+slimleaf onion</td>
+<td>
+CDFmm; CWHxm</td>
+<td>
+S3 (2019)</td>
+<td>
+Blue</td>
+<td>
+G4 (1988)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center">Y</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=NBMUS0R060">NBMUS0R060</a></td>
+<td>
+<i>Bartramia aprica</i></td>
+<td>
+rigid apple moss</td>
+<td>
+CDF; CWH</td>
+<td>
+S2 (2024)</td>
+<td>
+Red</td>
+<td>
+GU (2006)</td>
+<td>
+T</td>
+<td>
+1-E (2003)</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center">Y</td>
+<td align="center">Y</td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=NBMUS12020">NBMUS12020</a></td>
+<td>
+<i>Brotherella roellii</i></td>
+<td>
+Roell's brotherella</td>
+<td>
+CWH</td>
+<td>
+S3? (2024)</td>
+<td>
+Blue</td>
+<td>
+G3 (2004)</td>
+<td>
+E</td>
+<td>
+1-E (2018)</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center">Y</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=PDCLL01042">PDCLL01042</a></td>
+<td>
+<i>Callitriche heterophylla </i>var.<i> heterophylla</i></td>
+<td>
+two-edged water-starwort</td>
+<td>
+ </td>
+<td>
+SU (2020)</td>
+<td>
+Unknown</td>
+<td>
+G5T5 (2016)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center">Y</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=PDCON040F0">PDCON040F0</a></td>
+<td>
+<i>Calystegia soldanella</i></td>
+<td>
+beach bindweed</td>
+<td>
+CWHvh; CWHwh; CWHxm</td>
+<td>
+S3 (2019)</td>
+<td>
+Blue</td>
+<td>
+G5 (1988)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center">Y</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=PDONA030G0">PDONA030G0</a></td>
+<td>
+<i>Camissonia contorta</i></td>
+<td>
+contorted-pod evening-primrose</td>
+<td>
+CDFmm</td>
+<td>
+S1S2 (2022)</td>
+<td>
+Red</td>
+<td>
+G5 (1988)</td>
+<td>
+E</td>
+<td>
+1-E (2007)</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center">Y</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=PMCYP03E20">PMCYP03E20</a></td>
+<td>
+<i>Carex tumulicola</i></td>
+<td>
+foothill sedge</td>
+<td>
+CDFmm</td>
+<td>
+S3S4 (2019)</td>
+<td>
+Yellow</td>
+<td>
+G4 (2023)</td>
+<td>
+SC</td>
+<td>
+1-E (2010)</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center">Y</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=PDSCR0D1S0">PDSCR0D1S0</a></td>
+<td>
+<i>Castilleja levisecta</i></td>
+<td>
+golden paintbrush</td>
+<td>
+CDFmm</td>
+<td>
+S1 (2019)</td>
+<td>
+Red</td>
+<td>
+G2 (2020)</td>
+<td>
+E</td>
+<td>
+1-E (2003)</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center">Y</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=PDSCR0D4E0">PDSCR0D4E0</a></td>
+<td>
+<i>Castilleja victoriae</i></td>
+<td>
+Victoria's owl-clover</td>
+<td>
+CDFmm</td>
+<td>
+S1 (2019)</td>
+<td>
+Red</td>
+<td>
+G1 (2016)</td>
+<td>
+E</td>
+<td>
+1-E (2012)</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center">Y</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=PDPOR030U0">PDPOR030U0</a></td>
+<td>
+<i>Claytonia washingtoniana</i></td>
+<td>
+Washington springbeauty</td>
+<td>
+CDFmm; CWHdm; CWHxm; IDFww</td>
+<td>
+S3 (2022)</td>
+<td>
+Blue</td>
+<td>
+G2G4 (2001)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center">Y</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=PDCHE0A082">PDCHE0A082</a></td>
+<td>
+<i>Corispermum hookeri</i> var. <i>pseudodeclinatum</i></td>
+<td>
+British Columbia bugseed</td>
+<td>
+ </td>
+<td>
+SU (2020)</td>
+<td>
+Unknown</td>
+<td>
+G4G5T2T3 (2016)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=PDCRA02040">PDCRA02040</a></td>
+<td>
+<i>Crassula connata</i></td>
+<td>
+Erect Pigmyweed</td>
+<td>
+CDFmm</td>
+<td>
+S2S3 (2019)</td>
+<td>
+Blue</td>
+<td>
+G5 (1993)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center">Y</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=PPDRY0A020">PPDRY0A020</a></td>
+<td>
+<i>Dryopteris arguta</i></td>
+<td>
+coastal wood fern</td>
+<td>
+CDFmm</td>
+<td>
+S3 (2019)</td>
+<td>
+Blue</td>
+<td>
+G5 (2011)</td>
+<td>
+SC</td>
+<td>
+1-SC (2003)</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center">Y</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=NBMUS2P0D0">NBMUS2P0D0</a></td>
+<td>
+<i>Entosthodon fascicularis</i></td>
+<td>
+banded cord-moss</td>
+<td>
+CDF; CWH; ICHdm; ICHdw</td>
+<td>
+S3S4 (2024)</td>
+<td>
+Yellow</td>
+<td>
+G4G5 (2001)</td>
+<td>
+SC</td>
+<td>
+1-SC (2006)</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center">Y</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=NBMUS2V030">NBMUS2V030</a></td>
+<td>
+<i>Fabronia pusilla</i></td>
+<td>
+silver hair moss</td>
+<td>
+CWHdm</td>
+<td>
+S1S3 (2024)</td>
+<td>
+Red</td>
+<td>
+G4G5 (2005)</td>
+<td>
+E</td>
+<td>
+1-E (2005)</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center">Y</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=PMPOA2V0QH">PMPOA2V0QH</a></td>
+<td>
+<i>Festuca rubra</i> ssp. <i>mediana</i></td>
+<td>
+dwarf red fescue</td>
+<td>
+ </td>
+<td>
+S5? (2020)</td>
+<td>
+Yellow</td>
+<td>
+G5TNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=NBMUS2W0U0">NBMUS2W0U0</a></td>
+<td>
+<i>Fissidens pauperculus</i></td>
+<td>
+poor pocket moss</td>
+<td>
+CWH</td>
+<td>
+S1 (2024)</td>
+<td>
+Red</td>
+<td>
+G3? (2012)</td>
+<td>
+E</td>
+<td>
+1-E (2003)</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center">Y</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=PDFAB2A0D0">PDFAB2A0D0</a></td>
+<td>
+<i>Hosackia gracilis</i></td>
+<td>
+seaside bird's foot lotus</td>
+<td>
+CDFmm</td>
+<td>
+S2 (2019)</td>
+<td>
+Red</td>
+<td>
+G4 (2005)</td>
+<td>
+E</td>
+<td>
+1-E (2003)</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center">Y</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=PDFAB250J0">PDFAB250J0</a></td>
+<td>
+<i>Lathyrus littoralis</i></td>
+<td>
+silky beach pea</td>
+<td>
+CDFmm; CWHvh; CWHwh; CWHxm</td>
+<td>
+S2 (2019)</td>
+<td>
+Red</td>
+<td>
+G3G4 (2013)</td>
+<td>
+T</td>
+<td>
+1-T (2023)</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center">Y</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=PDLIM02060">PDLIM02060</a></td>
+<td>
+<i>Limnanthes macounii</i></td>
+<td>
+Macoun's meadow-foam</td>
+<td>
+CDFmm; CWHxm</td>
+<td>
+S2? (2019)</td>
+<td>
+Red</td>
+<td>
+G2? (2023)</td>
+<td>
+SC</td>
+<td>
+1-T (2006)</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center">Y</td>
+<td align="center">Y</td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=PDAPI1B0G1">PDAPI1B0G1</a></td>
+<td>
+<i>Lomatium dissectum</i></td>
+<td>
+fern-leaved desert-parsley</td>
+<td>
+CDFmm</td>
+<td>
+S2 (2019)</td>
+<td>
+Red</td>
+<td>
+G4T4 (2003)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center">Y</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=PDFAB2B592">PDFAB2B592</a></td>
+<td>
+<i>Lupinus microcarpus</i> var. <i>microcarpus</i></td>
+<td>
+dense-flowered lupine</td>
+<td>
+CDFmm</td>
+<td>
+S1 (2019)</td>
+<td>
+Red</td>
+<td>
+GNRTNR</td>
+<td>
+E</td>
+<td>
+1-E (2006)</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center">Y</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=PDFAB2B2W1">PDFAB2B2W1</a></td>
+<td>
+<i>Lupinus oreganus</i> var. <i>kincaidii</i></td>
+<td>
+Kincaid's lupine</td>
+<td>
+CDFmm</td>
+<td>
+SU (2019)</td>
+<td>
+Unknown</td>
+<td>
+G4T2 (2016)</td>
+<td>
+XT</td>
+<td>
+1-XT (2011)</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center">Y</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=PDPAP0G030">PDPAP0G030</a></td>
+<td>
+<i>Meconella oregana</i></td>
+<td>
+white meconella</td>
+<td>
+CDFmm; CWHxm</td>
+<td>
+S1S2 (2019)</td>
+<td>
+Red</td>
+<td>
+G2 (2020)</td>
+<td>
+E</td>
+<td>
+1-E (2006)</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center">Y</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=PDAST6E020">PDAST6E020</a></td>
+<td>
+<i>Microseris bigelovii</i></td>
+<td>
+coast microseris</td>
+<td>
+CDFmm</td>
+<td>
+S2 (2019)</td>
+<td>
+Red</td>
+<td>
+G4 (1995)</td>
+<td>
+E</td>
+<td>
+1-E (2007)</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center">Y</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=PDSCR2P030">PDSCR2P030</a></td>
+<td>
+<i>Nuttallanthus texanus</i></td>
+<td>
+Texas toadflax</td>
+<td>
+CDFmm; CWHxm</td>
+<td>
+S3 (2019)</td>
+<td>
+Blue</td>
+<td>
+G4G5 (2016)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=PDSCR1H030">PDSCR1H030</a></td>
+<td>
+<i>Orthocarpus bracteosus</i></td>
+<td>
+rosy owl-clover</td>
+<td>
+CDFmm</td>
+<td>
+S1 (2019)</td>
+<td>
+Red</td>
+<td>
+G3? (1998)</td>
+<td>
+E</td>
+<td>
+1-E (2005)</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center">Y</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=PGPIN04010">PGPIN04010</a></td>
+<td>
+<i>Pinus albicaulis</i></td>
+<td>
+whitebark pine</td>
+<td>
+BAFAun; BAFAunp; CMAunp; CWHdm; CWHds; CWHms; CWHun; CWHvm; CWHws; ESSFdc; ESSFdcp; ESSFdcw; ESSFdk; ESSFdkp; ESSFdku; ESSFdkw; ESSFdm; ESSFdmp; ESSFdmw; ESSFdv; ESSFdvp; ESSFdvw; ESSFmc; ESSFmcp; ESSFmk; ESSFmkp; ESSFmm; ESSFmmp; ESSFmv; ESSFmvp; ESSFmw; ESSFmwp; ESSFmww; ESSFvc; ESSFvcp; ESSFvcw; ESSFwc; ESSFwcp; ESSFwcw; ESSFwk; ESSFwm; ESSFwmp; ESSFwmw; ESSFwv; ESSFwvp; ESSFxc; ESSFxcp; ESSFxcw; ESSFxv; ESSFxvp; ESSFxvw; ICHdm; ICHdw; ICHmc; ICHmk; ICHmm; ICHmw; ICHvk; ICHwk; IDFdc; IDFdk; IDFdm; IDFdw; IDFww; IDFxc; IDFxh; IMAun; IMAunp; MHmm; MHmmp; MSdc; MSdk; MSdm; MSdv; MSmw; MSxk; MSxv; SBPSxc; SBSdh; SBSmc; SBSvk; SBSwk</td>
+<td>
+S2S3 (2019)</td>
+<td>
+Blue</td>
+<td>
+G3G4 (2020)</td>
+<td>
+E</td>
+<td>
+1-E (2012)</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center">Y</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=PDBOR0V192">PDBOR0V192</a></td>
+<td>
+<i>Plagiobothrys figuratus</i> var. <i>figuratus</i></td>
+<td>
+fragrant popcornflower</td>
+<td>
+CDFmm</td>
+<td>
+S1 (2019)</td>
+<td>
+Red</td>
+<td>
+G4T4 (1996)</td>
+<td>
+E</td>
+<td>
+1-E (2010)</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center">Y</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=PDPGN0L1Q0">PDPGN0L1Q0</a></td>
+<td>
+<i>Polygonum paronychia</i></td>
+<td>
+black knotweed</td>
+<td>
+CWHvh; CWHwh; CWHxm</td>
+<td>
+S3 (2019)</td>
+<td>
+Blue</td>
+<td>
+G5 (1990)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center">Y</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=PPDRY0R060">PPDRY0R060</a></td>
+<td>
+<i>Polystichum californicum</i></td>
+<td>
+California Sword-fern</td>
+<td>
+CDFmm</td>
+<td>
+S1 (2019)</td>
+<td>
+Red</td>
+<td>
+G4 (1989)</td>
+<td>
+E</td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center">Y</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=PDAST7R020">PDAST7R020</a></td>
+<td>
+<i>Psilocarphus elatior</i></td>
+<td>
+tall woolly-heads</td>
+<td>
+CDFmm; CWHvh</td>
+<td>
+S2 (2019)</td>
+<td>
+Red</td>
+<td>
+G4 (2001)</td>
+<td>
+E</td>
+<td>
+1-E (2003)</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center">Y</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=PDPYR04080">PDPYR04080</a></td>
+<td>
+<i>Pyrola aphylla</i></td>
+<td>
+leafless wintergreen</td>
+<td>
+CDFmm; CWHmm; CWHvm; CWHxm; IDFww</td>
+<td>
+S3 (2019)</td>
+<td>
+Blue</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center">Y</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=PDRAN0L052">PDRAN0L052</a></td>
+<td>
+<i>Ranunculus alismifolius</i> var. <i>alismifolius</i></td>
+<td>
+water-plantain buttercup</td>
+<td>
+CDFmm</td>
+<td>
+S1 (2019)</td>
+<td>
+Red</td>
+<td>
+G5T5 (1995)</td>
+<td>
+E</td>
+<td>
+1-E (2003)</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center">Y</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=PDRAN0L0H0">PDRAN0L0H0</a></td>
+<td>
+<i>Ranunculus californicus</i></td>
+<td>
+California buttercup</td>
+<td>
+CDFmm</td>
+<td>
+S2 (2019)</td>
+<td>
+Red</td>
+<td>
+G5 (1987)</td>
+<td>
+E</td>
+<td>
+1-E (2011)</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center">Y</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=PDCAR0G0Q2">PDCAR0G0Q2</a></td>
+<td>
+<i>Sabulina pusilla</i></td>
+<td>
+dwarf sandwort</td>
+<td>
+CDFmm</td>
+<td>
+S1 (2019)</td>
+<td>
+Red</td>
+<td>
+G3G5 (2004)</td>
+<td>
+E</td>
+<td>
+1-E (2005)</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center">Y</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=PDAPI1Z010">PDAPI1Z010</a></td>
+<td>
+<i>Sanicula arctopoides</i></td>
+<td>
+bear's-foot sanicle</td>
+<td>
+CDFmm</td>
+<td>
+S2 (2019)</td>
+<td>
+Red</td>
+<td>
+G5 (1990)</td>
+<td>
+T</td>
+<td>
+1-T (2003)</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center">Y</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=PDAPI1Z040">PDAPI1Z040</a></td>
+<td>
+<i>Sanicula bipinnatifida</i></td>
+<td>
+purple sanicle</td>
+<td>
+CDFmm; CWHxm</td>
+<td>
+S2 (2019)</td>
+<td>
+Red</td>
+<td>
+G5 (1990)</td>
+<td>
+T</td>
+<td>
+1-T (2003)</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center">Y</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=NBMUS6X0B0">NBMUS6X0B0</a></td>
+<td>
+<i>Seligeria acutifolia</i></td>
+<td>
+acuteleaf small limestone moss</td>
+<td>
+CWH</td>
+<td>
+S1S2 (2024)</td>
+<td>
+Red</td>
+<td>
+G3G5 (2000)</td>
+<td>
+E</td>
+<td>
+1-E (2021)</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center">Y</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=PDASTEF010">PDASTEF010</a></td>
+<td>
+<i>Sericocarpus rigidus</i></td>
+<td>
+white-top aster</td>
+<td>
+CDFmm; CWHxm</td>
+<td>
+S3 (2019)</td>
+<td>
+Blue</td>
+<td>
+G3 (2024)</td>
+<td>
+SC</td>
+<td>
+1-SC (2003)</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center">Y</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=PDCAR0U1MC">PDCAR0U1MC</a></td>
+<td>
+<i>Silene scouleri</i> ssp. <i>scouleri</i></td>
+<td>
+coastal Scouler's catchfly</td>
+<td>
+CDFmm</td>
+<td>
+S1 (2019)</td>
+<td>
+Red</td>
+<td>
+G5T3T5 (2002)</td>
+<td>
+E</td>
+<td>
+1-E (2005)</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center">Y</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=PMIRI0D0T4">PMIRI0D0T4</a></td>
+<td>
+<i>Sisyrinchium idahoense</i> var. <i>segetum</i></td>
+<td>
+Idaho blue-eyed-grass</td>
+<td>
+CDFmm</td>
+<td>
+S1 (2014)</td>
+<td>
+Red</td>
+<td>
+G5TNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=NBMUSA2020">NBMUSA2020</a></td>
+<td>
+<i>Syntrichia laevipila</i></td>
+<td>
+twisted oak moss</td>
+<td>
+CDFmm</td>
+<td>
+SU (2023)</td>
+<td>
+Unknown</td>
+<td>
+GNR</td>
+<td>
+SC</td>
+<td>
+1-SC (2005)</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center">Y</td>
+<td align="center">Y</td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=PDFAB400R1">PDFAB400R1</a></td>
+<td>
+<i>Trifolium depauperatum</i> var. <i>depauperatum</i></td>
+<td>
+poverty clover</td>
+<td>
+CDFmm; CWHxm</td>
+<td>
+S3 (2019)</td>
+<td>
+Blue</td>
+<td>
+G5T5? (2000)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center">Y</td>
+<td align="center">Y</td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=PDFAB400S0">PDFAB400S0</a></td>
+<td>
+<i>Trifolium dichotomum</i></td>
+<td>
+branched clover</td>
+<td>
+CDFmm; CWHxm</td>
+<td>
+S2 (2021)</td>
+<td>
+Red</td>
+<td>
+G4? (2002)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center">Y</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=PDSCR2T021">PDSCR2T021</a></td>
+<td>
+<i>Triphysaria versicolor</i> ssp. <i>versicolor</i></td>
+<td>
+bearded owl-clover</td>
+<td>
+CDFmm</td>
+<td>
+S1 (2019)</td>
+<td>
+Red</td>
+<td>
+G5T5 (1997)</td>
+<td>
+E</td>
+<td>
+1-E (2003)</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center">Y</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=PDLNT020E0">PDLNT020E0</a></td>
+<td>
+<i>Utricularia ochroleuca</i></td>
+<td>
+ochroleucous bladderwort</td>
+<td>
+BWBSdk; CDFmm; ESSFmv; ICHmw</td>
+<td>
+S2S3 (2019)</td>
+<td>
+Blue</td>
+<td>
+G4G5 (2016)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center">Y</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=PPBLE05020">PPBLE05020</a></td>
+<td>
+<i>Woodwardia fimbriata</i></td>
+<td>
+giant chain fern</td>
+<td>
+CDFmm; CWHxm</td>
+<td>
+S3 (2019)</td>
+<td>
+Blue</td>
+<td>
+G5 (1994)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center">Y</td>
+<td align="center"></td>
+</tr>
+</tbody>
+
+</table>
+<table>
+    <tr><td>&nbsp;</td></tr>
+    <tr bgcolor='#8080FF'><td>Search Criteria</td></tr>
+    <tr><td>Plants<BR>AND Area Of Interest: User Defined Polygon<BR>Sort Order:Scientific Name Ascending</td></tr>
+    <tr><td><a href='https://www2.gov.bc.ca/gov/content/data/open-data/open-government-licence-bc'>Open Government License&ndash;&nbsp;BC</a></td></tr>
+</table>
+
+</body>
+</html>
