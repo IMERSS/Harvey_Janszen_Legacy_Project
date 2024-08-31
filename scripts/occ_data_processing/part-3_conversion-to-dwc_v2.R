@@ -126,7 +126,7 @@
       # if other collector names noted 
     }else if (!is.na(data$recordedBy[i]) & data$recordedBy[i] != "Harvey Janszen" ){ 
       # add his name as first collector
-      data$recordedBy[i] <- paste0("Harvey Jaszen, ", data$recordedBy[i]) 
+      data$recordedBy[i] <- paste0("Harvey Janszen, ", data$recordedBy[i]) 
     }
   } 
   
